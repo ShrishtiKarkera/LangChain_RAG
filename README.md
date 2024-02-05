@@ -1,5 +1,5 @@
 ## LangChain RAG to query github docs
-__________________________________________________________________________________
+
 To use the source code:
 
 Step 1: <br>
